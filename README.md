@@ -1,6 +1,6 @@
 
 # Project Title: Global-Tech-Retail-Inventory-Analysis Using ABC-XYZ Classification
-This is a self project to practice inventory analysis base on dataset from Kaggle
+This is a self-initiated project to practice inventory analysis based on a dataset from Kaggle
 ## Project Background
 The goal of this project is to optimize inventory management processes for a retail company by applying the **ABC-XYZ classification methodology**. This approach aims to balance stock levels across varying value and demand profiles, primarily focusing on reducing holding costs while ensuring adequate stock for high-value and consistently demanded products.
 
